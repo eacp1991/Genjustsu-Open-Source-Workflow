@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://tein.ai"><img src="docs/branding/tein-ai-banner.svg" width="960" alt="TEIN AI — Open-source AI workflows. Click to join the waitlist." /></a>
+</p>
+<p align="center"><a href="https://tein.ai"><strong>Join TEIN AI →</strong></a></p>
+
+<p align="center">
   <a href="examples/advanced-black-nodes-v8-audio.mp4"><img src="examples/previews/workflow.gif" width="28%" alt="Workflow animation — click for full video with audio" /></a>
   <a href="examples/1006%20%281%29.mp4"><img src="examples/previews/example-1.gif" width="34%" alt="Example 1 — click for full video with audio" /></a>
   <a href="examples/1006%20%281%29%283%29.mp4"><img src="examples/previews/example-2.gif" width="34%" alt="Example 2 — click for full video with audio" /></a>
@@ -8,7 +13,7 @@
 <h1 align="center"> Genjustsu — Open Source Workflow</h1>
 <p align="center">Your scene. New characters.</p>
 <p align="center">
-  <a href="https://tein.ai"><strong>Join the TEIN waitlist</strong></a> ·
+  <a href="https://tein.ai"><strong>Join TEIN AI</strong></a> ·
   <a href="https://enhancor.ai"><strong>Get the Seedance API</strong></a> ·
   <a href="docs/SETUP-AGENT.md">Agent setup</a> ·
   <a href="examples/README.md">Examples</a> ·
