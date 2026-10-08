@@ -5,7 +5,7 @@
 </p>
 <p align="center"><em>Click any preview to open its full video with audio.</em></p>
 
-<h1 align="center">Higgsfield Genjustsu — Open Source Workflow</h1>
+<h1 align="center"> Genjustsu — Open Source Workflow</h1>
 <p align="center">Your scene. New characters.</p>
 <p align="center">
   <a href="https://tein.ai"><strong>Join the TEIN waitlist</strong></a> ·
